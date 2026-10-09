@@ -42,7 +42,7 @@
 <td align="center" valign="middle">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticiarenely&theme=aura_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leticiarenelly&theme=aura_dark"
 width="100%"/>
 
 </td>
@@ -92,7 +92,7 @@ width="100%"/>
 width="100%"
 <p align="center">
   <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=leticiarenely&hide_border=true&background=15141B&stroke=CA2C95&ring=CA2C95&fire=75FBED&currStreakLabel=75FBED&sideLabels=E0DEF4&currStreakNum=E0DEF4&sideNums=E0DEF4&dates=A89BB9"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=leticiarenelly&hide_border=true&background=15141B&stroke=CA2C95&ring=CA2C95&fire=75FBED&currStreakLabel=75FBED&sideLabels=E0DEF4&currStreakNum=E0DEF4&sideNums=E0DEF4&dates=A89BB9"/>
 </p>
 
 </td>
@@ -109,11 +109,11 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=leticiarenely&hide_b
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=leticiarenely&bg_color=15141B&color=E0DEF4&line=CA2C95&point=75FBED&title_color=CA2C95&area=true&area_color=2A1632&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=leticiarenelly&bg_color=15141B&color=E0DEF4&line=CA2C95&point=75FBED&title_color=CA2C95&area=true&area_color=2A1632&hide_border=true"/>
 </div>
 <br><br>
 
 <p align="center">
    <img
-src="https://komarev.com/ghpvc/?username=leticiarenely&style=for-the-badge&color=CA2C95&label=PROFILE+VIEWS"/>
+src="https://komarev.com/ghpvc/?username=leticiarenelly&style=for-the-badge&color=CA2C95&label=PROFILE+VIEWS"/>
 </p>
