@@ -105,14 +105,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=leticiarenelly&hide_
 
 <br><br>
 
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=leticiarenelly&bg_color=15141B&color=E0DEF4&line=CA2C95&point=75FBED&title_color=CA2C95&area=true&area_color=2A1632&hide_border=true"/>
-</div>
-<br><br>
-
 <p align="center">
    <img
 src="https://komarev.com/ghpvc/?username=leticiarenelly&style=for-the-badge&color=CA2C95&label=PROFILE+VIEWS"/>
